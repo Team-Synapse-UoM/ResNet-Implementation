@@ -1,6 +1,6 @@
 # ResNet-Implementation
 
-This repo trains a ResNet18 model on the MNIST dataset. The dataset is resized and normalized to fit the DenseNet model, and training is done using PyTorch.
+This repo trains a ResNet18 model on the MNIST dataset. The dataset is resized and normalized to fit the ResNet model, and training is done using PyTorch.
 
 #### ResNet Architecture
 <img src="ResNet-18-architecture.png" alt="ResNet Architecture" width="75%" height="75%">
